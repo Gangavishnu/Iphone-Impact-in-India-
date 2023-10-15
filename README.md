@@ -4,3 +4,4 @@ Dashboard Public Link - https://public.tableau.com/views/iRevolutiondashboard/Da
 
 Story Public Link - https://public.tableau.com/app/profile/ganga.n8100/viz/iRevolution_16968391680250/story1?publish=yes
 
+video public link-https://drive.google.com/file/d/1p7lNXoEog2-mVU992T2oV7v1iu50Qrfp/view?usp=drive_link
